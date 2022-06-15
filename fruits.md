@@ -5,3 +5,5 @@ permalink: /fruits/
 # Fruits
 
 This page is all about fruits.
+
+![Fruit Picture](maxsteinert.github.io/docs/assets/1438480.png)
