@@ -1,5 +1,3 @@
-title: mywebsite
-
 # Welcome to My website
 
 
