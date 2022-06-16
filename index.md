@@ -10,7 +10,7 @@
 
 
 
-### [Fruits](https://maxsteinert.github.io/2ndpage)
+### [Fruits](2ndpage.md)
 
 
 
