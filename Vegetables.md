@@ -1,1 +1,1 @@
-this is the vegetables page
+![vegetables](docs/assets/images/vegetables.jpeg)
